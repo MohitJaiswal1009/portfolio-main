@@ -8,10 +8,10 @@ const Leetcode = () => {
         <strong className="yellow">LeetCode</strong> Stats
       </h1>
       <img 
-        src="https://leetcode.com/stats/mohitjaiswal?theme=dark&font=Syne%20Mono&ext=heatmap" 
-        alt="LeetCode Stats" 
-        style={{ maxWidth: "100%", height: "auto" }} 
-      />
+  src="https://leetcard.jacoblin.cool/MohitJaiswal10?theme=dark&font=Syne%20Mono&ext=heatmap&animation=true&border=3&radius=15"
+  alt="LeetCode Stats" 
+  style={{ maxWidth: "100%", height: "auto" }} 
+/>
     </Row>
   );
 }
